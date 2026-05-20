@@ -20,7 +20,7 @@ git clone https://github.com/reddelexc/hackerone-reports
 #### 2. Run the scraper
 
 ```
-python3 scrapper.py`
+python3 scrapper.py
 ```
 
 A `reports/` folder will be created with one subfolder per bug type category. Each subfolder contains the filtered JSON files for the reports in that category.
